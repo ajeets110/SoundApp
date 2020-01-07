@@ -15,6 +15,16 @@
 		9BFCD93C23C5202200F87925 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9BFCD93A23C5202200F87925 /* LaunchScreen.storyboard */; };
 		9BFCD94723C5202200F87925 /* sound_Demo_1Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BFCD94623C5202200F87925 /* sound_Demo_1Tests.swift */; };
 		9BFCD95223C5202200F87925 /* sound_Demo_1UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BFCD95123C5202200F87925 /* sound_Demo_1UITests.swift */; };
+		9BFCD96023C5221D00F87925 /* bach.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9BFCD95F23C5221D00F87925 /* bach.mp3 */; };
+		9BFCD96923C53C3800F87925 /* hit.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9BFCD96123C53C3700F87925 /* hit.mp3 */; };
+		9BFCD96A23C53C3800F87925 /* knife.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9BFCD96223C53C3700F87925 /* knife.mp3 */; };
+		9BFCD96B23C53C3800F87925 /* swish.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9BFCD96323C53C3700F87925 /* swish.mp3 */; };
+		9BFCD96C23C53C3800F87925 /* boing.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9BFCD96423C53C3700F87925 /* boing.mp3 */; };
+		9BFCD96D23C53C3800F87925 /* warble.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9BFCD96523C53C3700F87925 /* warble.mp3 */; };
+		9BFCD96E23C53C3800F87925 /* explosion.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9BFCD96623C53C3700F87925 /* explosion.mp3 */; };
+		9BFCD96F23C53C3800F87925 /* shoot.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9BFCD96723C53C3800F87925 /* shoot.mp3 */; };
+		9BFCD97023C53C3800F87925 /* wah.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9BFCD96823C53C3800F87925 /* wah.mp3 */; };
+		9BFCD9AF23C5413200F87925 /* Drake.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9BFCD9AE23C5413200F87925 /* Drake.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +59,16 @@
 		9BFCD94D23C5202200F87925 /* sound Demo 1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "sound Demo 1UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9BFCD95123C5202200F87925 /* sound_Demo_1UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sound_Demo_1UITests.swift; sourceTree = "<group>"; };
 		9BFCD95323C5202200F87925 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9BFCD95F23C5221D00F87925 /* bach.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = bach.mp3; sourceTree = "<group>"; };
+		9BFCD96123C53C3700F87925 /* hit.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = hit.mp3; sourceTree = "<group>"; };
+		9BFCD96223C53C3700F87925 /* knife.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = knife.mp3; sourceTree = "<group>"; };
+		9BFCD96323C53C3700F87925 /* swish.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = swish.mp3; sourceTree = "<group>"; };
+		9BFCD96423C53C3700F87925 /* boing.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = boing.mp3; sourceTree = "<group>"; };
+		9BFCD96523C53C3700F87925 /* warble.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = warble.mp3; sourceTree = "<group>"; };
+		9BFCD96623C53C3700F87925 /* explosion.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = explosion.mp3; sourceTree = "<group>"; };
+		9BFCD96723C53C3800F87925 /* shoot.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = shoot.mp3; sourceTree = "<group>"; };
+		9BFCD96823C53C3800F87925 /* wah.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = wah.mp3; sourceTree = "<group>"; };
+		9BFCD9AE23C5413200F87925 /* Drake.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Drake.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,8 +122,10 @@
 				9BFCD92F23C5202100F87925 /* AppDelegate.swift */,
 				9BFCD93123C5202100F87925 /* SceneDelegate.swift */,
 				9BFCD93323C5202100F87925 /* ViewController.swift */,
+				9BFCD9AE23C5413200F87925 /* Drake.jpg */,
 				9BFCD93523C5202100F87925 /* Main.storyboard */,
 				9BFCD93823C5202200F87925 /* Assets.xcassets */,
+				9BFCD97123C53C3C00F87925 /* New Group */,
 				9BFCD93A23C5202200F87925 /* LaunchScreen.storyboard */,
 				9BFCD93D23C5202200F87925 /* Info.plist */,
 			);
@@ -126,6 +148,22 @@
 				9BFCD95323C5202200F87925 /* Info.plist */,
 			);
 			path = "sound Demo 1UITests";
+			sourceTree = "<group>";
+		};
+		9BFCD97123C53C3C00F87925 /* New Group */ = {
+			isa = PBXGroup;
+			children = (
+				9BFCD95F23C5221D00F87925 /* bach.mp3 */,
+				9BFCD96423C53C3700F87925 /* boing.mp3 */,
+				9BFCD96623C53C3700F87925 /* explosion.mp3 */,
+				9BFCD96123C53C3700F87925 /* hit.mp3 */,
+				9BFCD96223C53C3700F87925 /* knife.mp3 */,
+				9BFCD96723C53C3800F87925 /* shoot.mp3 */,
+				9BFCD96323C53C3700F87925 /* swish.mp3 */,
+				9BFCD96823C53C3800F87925 /* wah.mp3 */,
+				9BFCD96523C53C3700F87925 /* warble.mp3 */,
+			);
+			path = "New Group";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -232,9 +270,19 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9BFCD96023C5221D00F87925 /* bach.mp3 in Resources */,
+				9BFCD9AF23C5413200F87925 /* Drake.jpg in Resources */,
+				9BFCD96B23C53C3800F87925 /* swish.mp3 in Resources */,
+				9BFCD96D23C53C3800F87925 /* warble.mp3 in Resources */,
 				9BFCD93C23C5202200F87925 /* LaunchScreen.storyboard in Resources */,
+				9BFCD96E23C53C3800F87925 /* explosion.mp3 in Resources */,
 				9BFCD93923C5202200F87925 /* Assets.xcassets in Resources */,
+				9BFCD96F23C53C3800F87925 /* shoot.mp3 in Resources */,
 				9BFCD93723C5202100F87925 /* Main.storyboard in Resources */,
+				9BFCD96A23C53C3800F87925 /* knife.mp3 in Resources */,
+				9BFCD97023C53C3800F87925 /* wah.mp3 in Resources */,
+				9BFCD96C23C53C3800F87925 /* boing.mp3 in Resources */,
+				9BFCD96923C53C3800F87925 /* hit.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
